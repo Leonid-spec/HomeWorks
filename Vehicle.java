@@ -1,4 +1,4 @@
-package homeWork_22.vehicle;
+package homeWork_22;
 
 public abstract class Vehicle {
     private String name;

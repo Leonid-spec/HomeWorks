@@ -1,4 +1,4 @@
-package homeWork_22.vehicle;
+package homeWork_22;
 
 public class MainTestVehicle {
     public static void main(String[] args) {

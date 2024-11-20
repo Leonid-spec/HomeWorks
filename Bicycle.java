@@ -1,4 +1,4 @@
-package homeWork_22.vehicle;
+package homeWork_22;
 
 public class Bicycle extends Vehicle{
     public Bicycle(String name){
